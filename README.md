@@ -23,7 +23,6 @@ A text analytics and sentiment project using 100,000+ former employee reviews fr
 - Python (data wrangling, analysis, feature engineering)
 - Tableau (for dashboards—when code needs pictures)
 - Jupyter Notebooks (iykyk)
-- 
 - Ticonderoga No. 2 pencils (sometimes you just need to draw it out)
 - Sheer grit and determination
 
