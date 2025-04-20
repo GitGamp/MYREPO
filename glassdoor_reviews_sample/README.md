@@ -22,7 +22,7 @@ This project uses the [Glassdoor Job Reviews 2](https://www.kaggle.com/datasets/
 ---
 >### CURRENT STATUS:
 
-![Current Status](./memes/spongeBob.jpg)
+![Current Status](./memes/barney.jpg)
 
 ---
 
